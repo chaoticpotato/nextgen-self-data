@@ -72,6 +72,10 @@ export const dates = [
   "2024-06-04",
   "2024-06-05",
   "2024-06-06",
+  "2024-06-07",
+  "2024-06-08",
+  "2024-06-09",
+  "2024-06-10",
 ];
 
 export const usage = [
@@ -83,11 +87,12 @@ export const usage = [
       "2024-05-31": { action_count: 90, question_count: 150 },
       "2024-06-04": { action_count: 60, question_count: 73 },
       "2024-06-05": { action_count: 15, question_count: 23 },
-      "2024-06-06": { action_count: 10, question_count: 25 },
+      "2024-06-06": { action_count: 47, question_count: 85 },
+      "2024-06-09": { action_count: 53, question_count: 89 },
+      "2024-06-10": { action_count: 5, question_count: 7 },
     },
-
-    total_q: "351",
-    total_a: "215",
+    total_q: "507",
+    total_a: "310",
   },
   {
     user_id: 194276,
