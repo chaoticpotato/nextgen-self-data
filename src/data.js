@@ -58,6 +58,12 @@ export const userz = {
   194943: {
     name: "Ömer Faruk Aras",
   },
+  194489: {
+    name: "Anıl Aytaç",
+  },
+  194945: {
+    name: "Mehmet Narin",
+  },
 };
 
 export const dates = [
@@ -76,6 +82,8 @@ export const dates = [
   "2024-06-08",
   "2024-06-09",
   "2024-06-10",
+  "2024-06-11",
+  "2024-06-12",
 ];
 
 export const usage = [
@@ -89,10 +97,11 @@ export const usage = [
       "2024-06-05": { action_count: 15, question_count: 23 },
       "2024-06-06": { action_count: 47, question_count: 85 },
       "2024-06-09": { action_count: 53, question_count: 89 },
-      "2024-06-10": { action_count: 5, question_count: 7 },
+      "2024-06-10": { action_count: 24, question_count: 30 },
+      "2024-06-12": { action_count: 6, question_count: 9 },
     },
-    total_q: "507",
-    total_a: "310",
+    total_q: "539",
+    total_a: "335",
   },
   {
     user_id: 194276,
